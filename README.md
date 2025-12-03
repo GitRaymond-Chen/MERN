@@ -1,5 +1,3 @@
-access here: https://mern-tir5.onrender.com
-Please wait 1 minute for the server to boot up
 # 🛒 MERN Stack Product Management Application
 
 A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) for managing products with a modern, responsive user interface.
